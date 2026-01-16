@@ -1,4 +1,4 @@
-<!-- Revision Notes -->
+Revision Notes
 
 Step 1: Decide what this program is
 
